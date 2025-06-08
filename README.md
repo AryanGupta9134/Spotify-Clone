@@ -44,8 +44,9 @@ A React-based Spotify Clone that mimics the core features of Spotify, including 
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![Player](screenshots/player.png)
+
+![Home-Page](https://github.com/user-attachments/assets/8b98e53d-88e3-48a2-adaa-387ca3d44af0)
+![Player](![player](https://github.com/user-attachments/assets/76175cdc-5c58-429c-9444-1025aa685faf)
 
 ## License
 
